@@ -29,8 +29,8 @@ Repository structure must be maintained for proper usage of the index.html file.
 
 Deployed application: https://cnix273.github.io/responsive_design/
 
-Website Layout Bellow 576px:![Screenshot 1](https://github.com/cnix273/Horiseon_refactor/blob/main/assets/images/screenshot1.png)
-Website Layout Above 576px:![Screenshot 1](https://github.com/cnix273/Horiseon_refactor/blob/main/assets/images/screenshot1.png)
+Website Layout Bellow 576px:![Screenshot 1](https://github.com/cnix273/respomsive_design/assets/images/Screenshot2.png)
+Website Layout Above 576px:![Screenshot 1](https://github.com/cnix273/Horiseon_refactor/blob/main/assets/images/Screenshot1.png)
 
 ## Credits
 
