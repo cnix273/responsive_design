@@ -37,7 +37,7 @@ h1 {
     /* Typography */
     font-size: 45px;
     font-family: 'PT Serif', serif;
-    color: rgb(75, 182, 196)!important;
+    color: rgb(75, 182, 196);
 
     /* Structural */
     margin-top: 20px;
@@ -83,6 +83,10 @@ small {
     margin-right: 15px;
     border: none;
     height: 300px;
+}
+
+.links {
+    color: rgb(75, 182, 196);
 }
 
 /* Contact Page Styling */
